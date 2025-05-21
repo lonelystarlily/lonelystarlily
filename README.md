@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌟 lonelystarlily
 
-<!--
-**lonelystarlily/lonelystarlily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 저는 충남삼성고등학교에 재학 중이며, IT 동아리 **Beatus**에서 활동하고 있습니다.  
+꿈은 **게임 기획자**와 같은 컨텐츠 제작자가 되는 것이고, 특히 아이디어를 표현하는 일에 관심이 많아요.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 기술
+Unity (C#)
+프로젝트 아이디어 기획
+
+## 🕹️ 주요 경험
+중학생 시절 2년 간 직접 불특정 다수를 대상으로 게임 서버를 운영하여 투자도 받은 경험
+
+## 📌 소셜 링크
+인스타그램 | [@woonchan.jh] (https://instagram.com/woonchan.jh)
+디스코드 | lonelysakurastar (김멍청)
+
+## 🎈 취미 & 관심사
+새로운 게임 플레이하기
+소설/웹툰 감상
+음악 듣기
+
+---
+> 제 작업물은 대부분 소스 코드를 공개해요. 부족함이 많은 것들이니 피드백은 언제나 환영해요!
